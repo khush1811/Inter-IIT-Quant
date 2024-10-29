@@ -1,0 +1,2 @@
+Install yfinance using pip
+$ pip install yfinance --upgrade --no-cache-dir
